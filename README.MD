@@ -1,21 +1,19 @@
 <p align="center">
-    <img width="300" src=".github/assets/banner.png">
+    <img width="200" src=".github/assets/banner.png">
 </p>
-
 
 [![DIO - Code The Future](https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube)](https://dio.me/)
 [![🔴 LIVE CODE](https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72)](https://dio.me/)
 -------
 
 
-
 # Projeto Podcast Gerado por I.A.s
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-projeto consiste em uma aplicação interativa inspirada no universo do Homem-Aranha, usando as principais stacks front-end: React, Next.js 13, a biblioteca Framer Motion, Sass e TypeScript para criar um projeto visual incrível e de alta performance.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-[Demonstração do projeto.webm](https://github.com/micheleambrosio/dio-spiderverse/assets/55519539/6ea3a467-ca98-4b3d-aa16-855db8a5fdb0)
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
